@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate. <a href='https://publichealth.berkeley.edu/academics/programs/health-policy-phd'>Health Policy</a>, UC Berkeley School of Public Health.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#    <p>:email: Email: solis_winters@berkeley.edu </p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a PhD Candidate in Health Policy, with a specialization in Population Health and Data Science, at the University of California, Berkeley School of Public Health. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research broadly focuses on improving the health and health care of pregnant people, infants, and people living with HIV. I use interdisiplinary methods from epidemiology and health economics to understand how to better design, implement, evaluate, and scale-up community-based interventions to improve reproductive and perinatal health in low-income settings. I have experience working on interventions throughout Latin America, Africa, and Southeast Asia. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to graduate school, I was a research assistanct at the [Inter-American Development Bank]('https://www.iadb.org/en/who-we-are/about-idb') in the Office of Strategic Planning and Development Effectiveness, assisting with impact evaluations of maternal and child health programs implemented in low-income and predominately indigenous communities in Latin America. 
+
+I hold a BS in Biostatistics and Public Health, with minors in Engineering Mathematics and Urban Poverty Studies, from Saint Louis University College for Public Health and Social Justice. 
