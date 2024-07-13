@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: :email: solis_winters@berkeley.edu
+subtitle: solis_winters@berkeley.edu/
 
 profile:
   align: right
