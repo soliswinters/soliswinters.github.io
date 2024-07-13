@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: solis_winters@berkeley.edu
+subtitle: :email: solis_winters@berkeley.edu
 
 profile:
   align: right
@@ -25,4 +25,3 @@ My research broadly focuses on improving the health and health care of pregnant 
 Prior to graduate school, I worked at the Office of Strategic Planning and Development Effectiveness at the [Inter-American Development Bank]('https://www.iadb.org/en/who-we-are/about-idb'), assisting with impact evaluations of maternal and child health programs implemented in low-income and predominately indigenous communities in Latin America. 
 
 I hold a B.S. in [Biostatistics]('https://www.slu.edu/public-health-social-justice/programs-and-certificates/health-analytics/biostatistics.php') and [Public Health]('https://www.slu.edu/public-health-social-justice/programs-and-certificates/public-health/public-health.php'), with minors in Engineering Mathematics and Urban Poverty Studies, from [Saint Louis University College for Public Health and Social Justice]('https://www.slu.edu/public-health-social-justice/index.php').
-
