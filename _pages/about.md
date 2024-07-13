@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: :email: solis_winters@berkeley.edu  :graduation-cap: UC Berkeley  :location-pin: Berkeley, CA
+subtitle: :email: solis_winters@berkeley.edu
 
 profile:
   align: right
