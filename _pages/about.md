@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-#subtitle: PhD Candidate. <a href='https://publichealth.berkeley.edu/academics/programs/health-policy-phd'>Health Policy</a>, UC Berkeley School of Public Health.
+subtitle: :email: solis_winters@berkeley.edu  :graduation-cap: UC Berkeley  :location-pin: Berkeley, CA
 
 profile:
   align: right
@@ -18,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD Candidate in [Health Policy]('https://publichealth.berkeley.edu/academics/programs/health-policy-phd'), at the University of California, Berkeley School of Public Health, with a specialization in Population Health and Data Science.
+Hello! I am a PhD Candidate in [Health Policy]('https://publichealth.berkeley.edu/academics/programs/health-policy-phd'), at the [University of California, Berkeley School of Public Health]('https://publichealth.berkeley.edu/'), with a specialization in Population Health and Data Science.
 
 My research broadly focuses on improving the health and health care of pregnant people, infants, and people living with HIV. I use interdisciplinary methods from epidemiology and health economics to understand how to better design, implement, evaluate, and scale-up community-based interventions to improve reproductive and perinatal health in low-income settings. 
 
-Prior to graduate school, I worked at the [Inter-American Development Bank]('https://www.iadb.org/en/who-we-are/about-idb') in the Office of Strategic Planning and Development Effectiveness, assisting with impact evaluations of maternal and child health programs implemented in low-income and predominately indigenous communities in Latin America. 
+Prior to graduate school, I worked at the Office of Strategic Planning and Development Effectiveness at the [Inter-American Development Bank]('https://www.iadb.org/en/who-we-are/about-idb'), assisting with impact evaluations of maternal and child health programs implemented in low-income and predominately indigenous communities in Latin America. 
 
-I hold a BS in Biostatistics and Public Health, with minors in Engineering Mathematics and Urban Poverty Studies, from Saint Louis University College for Public Health and Social Justice.
+I hold a B.S. in [Biostatistics]('https://www.slu.edu/public-health-social-justice/programs-and-certificates/health-analytics/biostatistics.php') and [Public Health]('https://www.slu.edu/public-health-social-justice/programs-and-certificates/public-health/public-health.php'), with minors in Engineering Mathematics and Urban Poverty Studies, from [Saint Louis University College for Public Health and Social Justice]('https://www.slu.edu/public-health-social-justice/index.php').
 
