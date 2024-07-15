@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I am a PhD Candidate in [Health Policy](https://publichealth.berkeley.edu/academics/programs/health-policy-phd), at the [University of California, Berkeley School of Public Health](https://publichealth.berkeley.edu), with a specialization in Population Health and Data Science.
 
-My research broadly focuses on improving the health and health care of pregnant women, infants, and people living with HIV. I use interdisciplinary methods from epidemiology and health economics to understand how to better design, implement, evaluate, and scale-up community-based interventions to improve reproductive and perinatal health in low-income settings. 
+My research broadly focuses on improving the health and health care of pregnant women, infants, and people living with HIV. I use interdisciplinary methods from epidemiology and health economics to understand how to better design, implement, and scale-up community-based interventions to improve reproductive and perinatal health in low-income settings. 
 
 Prior to graduate school, I worked at the Office of Strategic Planning and Development Effectiveness at the [Inter-American Development Bank](https://www.iadb.org/en/who-we-are/about-idb), assisting with impact evaluations of maternal and child health programs implemented in low-income and predominately indigenous communities in Latin America. 
 
