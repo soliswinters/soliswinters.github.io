@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Solis Winters",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "solis_winters@berkeley.edu",
+    "phone": "(301) 592-7546",
+    "url": "https://soliswinters.github.io",
+    "summary": "A Health Policy PhD Candidate at UC Berkeley, with research interests in maternal and child health and HIV, causal inference, and impact evaluations",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Berkeley",
       "countryCode": "US",
       "region": "California"
     },
@@ -24,11 +24,11 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "School of Public Health, University of California, Berkeley",
+      "position": "Health Policy PhD Candidate",
+      "url": "https://publichealth.berkeley.edu/academics/programs/health-policy-phd",
+      "startDate": "2020-08",
+      "endDate": "2025-05",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
@@ -151,13 +151,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Spanish",
+      "fluency": "Heritage speaker",
       "icon": ""
     }
   ],
