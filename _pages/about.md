@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Health Policy PhD Candidate @ UC Berkeley
+subtitle: PhD Candidate @ UC Berkeley
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD Candidate in [Health Policy](https://publichealth.berkeley.edu/academics/programs/health-policy-phd), at the [University of California, Berkeley School of Public Health](https://publichealth.berkeley.edu), with a specialization in Population Health and Data Science.
+Hello! I am a PhD Candidate in [Health Policy](https://publichealth.berkeley.edu/academics/programs/health-policy-phd) at the [University of California, Berkeley School of Public Health](https://publichealth.berkeley.edu), with a specialization in Population Health and Data Science.
 
 My research broadly focuses on improving the health and health care of pregnant women, infants, and people living with HIV. I use interdisciplinary methods from epidemiology and health economics to understand how to better design, implement, and scale-up community-based interventions to improve reproductive and perinatal health in low-income settings. 
 
