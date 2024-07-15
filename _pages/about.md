@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate @ UC Berkeley
+subtitle: 🎓 PhD Candidate @ UC Berkeley | 📧 solis_winters@berkeley.edu | 📍 Berkeley, CA
 
 profile:
   align: right
