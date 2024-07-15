@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  💼 PhD Candidate | 🎓 UC Berkeley | 📍 Berkeley, CA
+subtitle:  💼 Health Policy PhD Candidate |  🎓 UC Berkeley |  📍 Berkeley, CA
 description: Global health; maternal and child health; HIV; causal inference
 
 profile:
