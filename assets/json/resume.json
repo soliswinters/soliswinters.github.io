@@ -43,7 +43,7 @@
       "startDate": "2014",
       "endDate": "2018",
       "summary": "Minors in Engineering Mathematics and Urban Poverty Studies",
-      "highlights": ["Biostatistics Capstone: 'The black-white disparities in preterm birth rates in St. Louis City and County'"], ["Honors Program Capstone: 'Understanding the role of social support among low food-secure adults in Missouri"]
+      "highlights": ["Biostatistics Capstone: 'The black-white disparities in preterm birth rates in St. Louis City and County'", "Honors Program Capstone: 'Understanding the role of social support among low food-secure adults in Missouri'"]
     }
   ],
   "work": [
@@ -135,16 +135,13 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Statistical Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "R/RStudio/R Markdown",
+        "Stata",
+        "QGIS",
       ]
     }
   ],
@@ -158,20 +155,6 @@
       "language": "Spanish",
       "fluency": "Heritage speaker",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "volunteer": [
@@ -197,15 +180,4 @@
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
-}
