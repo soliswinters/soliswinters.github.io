@@ -6,7 +6,7 @@
     "email": "solis_winters@berkeley.edu",
     "phone": "(301) 592-7546",
     "url": "https://soliswinters.github.io",
-    "summary": "A Health Policy PhD Candidate at UC Berkeley, with research interests in maternal and child health and HIV, causal inference, and impact evaluations",
+    "summary": "A Health Policy PhD Candidate at UC Berkeley, with research interests in maternal and child health, HIV, causal inference, and impact evaluation",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -22,6 +22,29 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of California, Berkeley School of Public Health",
+      "location": "Berkeley, Calfiornia",
+      "url": "https://publichealth.berkeley.edu/academics/programs/health-policy-phd",
+      "area": "Health Policy, Population & Data Science",
+      "studyType": "PhD",
+      "startDate": "2020",
+      "endDate": "2025",
+      "summary": ["Graduate Certificate in Applied Data Science", "Advisor: Dr. Lia Fernald, Brian and Jennifer Maxwell Endowed Chair in Public Health"]
+    },
+    {
+      "institution": "Saint Louis University College for Public Health and Social Justice",
+      "location": "St. Louis, Missouri",
+      "url": "https://www.slu.edu/public-health-social-justice/programs-and-certificates/health-analytics/biostatistics.php",
+      "area": "Biostatistics and Public Health",
+      "studyType": "BS",
+      "startDate": "2014",
+      "endDate": "2018",
+      "summary": "Minors in Engineering Mathematics and Urban Poverty Studies",
+      "highlights": ["Biostatistics Capstone: 'The black-white disparities in preterm birth rates in St. Louis City and County'", "Honors Program Capstone: 'Understanding the role of social support among low food-secure adults in Missouri"]
+    }
+  ],
   "work": [
     {
       "name": "School of Public Health, University of California, Berkeley",
@@ -31,31 +54,6 @@
       "endDate": "2025-05",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
@@ -173,6 +171,18 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "references": [
