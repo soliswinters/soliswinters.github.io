@@ -31,7 +31,8 @@
       "studyType": "PhD",
       "startDate": "2020",
       "endDate": "2025",
-      "summary": ["Graduate Certificate in Applied Data Science", "Advisor: Dr. Lia Fernald, Brian and Jennifer Maxwell Endowed Chair in Public Health"]
+      "summary": "Graduate Certificate in Applied Data Science  
+      Advisor: Dr. Lia Fernald, Brian and Jennifer Maxwell Endowed Chair in Public Health"
     },
     {
       "institution": "Saint Louis University College for Public Health and Social Justice",
@@ -42,7 +43,7 @@
       "startDate": "2014",
       "endDate": "2018",
       "summary": "Minors in Engineering Mathematics and Urban Poverty Studies",
-      "highlights": ["Biostatistics Capstone: 'The black-white disparities in preterm birth rates in St. Louis City and County'", "Honors Program Capstone: 'Understanding the role of social support among low food-secure adults in Missouri"]
+      "highlights": ["Biostatistics Capstone: 'The black-white disparities in preterm birth rates in St. Louis City and County'"], ["Honors Program Capstone: 'Understanding the role of social support among low food-secure adults in Missouri"]
     }
   ],
   "work": [
