@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: updated publications can be found on Google Scholar
+description: <span>*</span> denotes equal contribution.
 nav: true
 nav_order: 2
 ---
