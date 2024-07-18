@@ -26,47 +26,28 @@
       "institution": "University of California, Berkeley School of Public Health",
       "location": "Berkeley, Calfiornia",
       "url": "https://publichealth.berkeley.edu/academics/programs/health-policy-phd",
-      "area": "Health Policy, Population & Data Science",
-      "studyType": "PhD",
+      "area": "Graduate Certificate in Applied Data Science",
+      "studyType": "PhD, Health Policy, Population & Data Science",
       "startDate": "2020",
-      "endDate": "2025",
-      "courses": "Graduate Certificate in Applied Data Science"
+      "endDate": "2025"
     },
     {
       "institution": "Saint Louis University College for Public Health and Social Justice",
       "location": "St. Louis, Missouri",
       "url": "https://www.slu.edu/public-health-social-justice/programs-and-certificates/health-analytics/biostatistics.php",
-      "area": "Biostatistics and Public Health",
-      "studyType": "BS",
+      "area": "Minors in Engineering Mathematics and Urban Poverty Studies",
+      "studyType": "BS, Biostatistics and Public Health",
       "startDate": "2014",
       "endDate": "2018",
-      "courses": ["Minors in Engineering Mathematics and Urban Poverty Studies", "Biostatistics Capstone: 'The black-white disparities in preterm birth rates in St. Louis City and County'", "Honors Program Capstone: 'Understanding the role of social support among low food-secure adults in Missouri'"]
+      "courses": ["Biostatistics Capstone: 'The black-white disparities in preterm birth rates in St. Louis City and County'", "Honors Program Capstone: 'Understanding the role of social support among low food-secure adults in Missouri'"]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "summary": "Please find a complete list of publications [here](https://soliswinters.github.io/publications)."
     }
   ],
-  "research experience": [
+  "research": [
     {
       "name": "University of California, Berkeley School of Public Health",
       "position": "Graduate Student Researcher",
