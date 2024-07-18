@@ -44,10 +44,11 @@
   ],
   "publications": [
     {
-      "summary": "Please find a complete list of publications [here](https://soliswinters.github.io/publications)."
+      "summary": "Please find a complete list of publications here.",
+      "url": "https://soliswinters.github.io/publications"
     }
   ],
-  "research": [
+  "work": [
     {
       "name": "University of California, Berkeley School of Public Health",
       "position": "Graduate Student Researcher",
