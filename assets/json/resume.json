@@ -44,7 +44,7 @@
   ],
   "publications": [
     {
-      "summary": "Please find a complete list of publications here.",
+      "name": "Please find a complete list of publications here.",
       "url": "https://soliswinters.github.io/publications"
     }
   ],
@@ -54,7 +54,7 @@
       "position": "Graduate Student Researcher",
       "url": "https://publichealth.berkeley.edu",
       "startDate": "2021",
-      "endDate": "Present",
+      "endDate": "2024",
       "summary": "Lead data management, monitoring, and statistical analysis for a cluster randomized control trial to test whether cash incentives can improve treatment adherence among people living with HIV in Tanzania."
     },
     {
@@ -70,6 +70,7 @@
       "position": "Graduate Student Researcher",
       "url": "https://nursing.ucsf.edu/",
       "startDate": "2023",
+      "endDate": "2023",
       "summary": "Wrote, updated, and revised R Markdown code to generate monthly, tailored reports based on customer feedback data for drug shop owners enrolled in a randomized controlled trial in Tanzania."
     },
     {
@@ -92,6 +93,7 @@
       "position": "Undergraduate Research Assistant",
       "url": "https://www.slu.edu/public-health-social-justice/index.php",
       "startDate": "2018",
+      "endDate": "2018",
       "summary": "Interviewed parents for a qualitative research study to understand the relationship between sleep habits and health among young children in St. Louis."
     },
     {
@@ -99,36 +101,46 @@
       "position": "Undergraduate Research Assistant",
       "url": "https://www.air.org/",
       "startDate": "2015",
+      "endDate": "2015",
       "summary": "Assisted in the evaluation of Plantwise Kenya, a project focused on improving plant health in Kenya by training extension agents and expanding farmer access to plant health information."
     }
   ],
   "awards": [
     {
       "title": "Outstanding Bachelor of Science in Biostatistics Graduating Senior Award",
-      "date": "2018-05",
+      "date": "2018",
       "awarder": "Saint Louis University College for Public Health and Social Justice",
       "url": "https://www.slu.edu/public-health-social-justice/index.php",
       "summary": "This award honors and individual that shows leadership performance & potential, scholastic achievement, and manifestations of the College Covenant in personal conduct.'"
     }
   ],
-  "certificates": [
-    {
-      "name": "Graduate Certificate in Applied Data Science",
-      "date": "2023-06",
-      "issuer": "University of California, Berkeley School of Information",
-      "url": "https://www.ischool.berkeley.edu/programs/data-science-certificate",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
   "skills": [
     {
-      "name": "Statistical Programming",
+      "name": "Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-laptop-code",
       "keywords": [
-        "R/RStudio/R Markdown",
-        "Stata",
-        "QGIS"
+        "R, RStudio, R Markdown (professional)",
+        "Stata (professional)",
+        "QGIS (intermediate)",
+        "Python (intermediate)",
+        "SPSS (elementary)",
+        "SAS (elementary)",
+        "ArcGIS (elementary)"
+      ]
+    },
+    {
+      "name": "Data & Methods",
+      "level": "Master",
+      "icon": "fa-solid fa-square-poll-vertical",
+      "keywords": [
+        "Data management",
+        "Data analysis",
+        "Data visualization",
+        "Causal inference",
+        "Impact evaluation",
+        "Biostatistics",
+        "Econometrics"
       ]
     }
   ],
