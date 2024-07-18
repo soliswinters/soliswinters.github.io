@@ -40,8 +40,7 @@
       "studyType": "BS",
       "startDate": "2014",
       "endDate": "2018",
-      "summary": "Minors in Engineering Mathematics and Urban Poverty Studies",
-      "courses": ["Biostatistics Capstone: 'The black-white disparities in preterm birth rates in St. Louis City and County'", "Honors Program Capstone: 'Understanding the role of social support among low food-secure adults in Missouri'"]
+      "courses": ["Minors in Engineering Mathematics and Urban Poverty Studies", "Biostatistics Capstone: 'The black-white disparities in preterm birth rates in St. Louis City and County'", "Honors Program Capstone: 'Understanding the role of social support among low food-secure adults in Missouri'"]
     }
   ],
   "publications": [
@@ -67,7 +66,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "professional research experience": [
+  "research experience": [
     {
       "name": "University of California, Berkeley School of Public Health",
       "position": "Graduate Student Researcher",
@@ -109,7 +108,7 @@
     {
       "name": "Saint Louis University College for Public Health and Social Justice",
       "position": "Undergraduate Research Assistant",
-      "url": "https://publichealth.berkeley.edu",
+      "url": "https://www.slu.edu/public-health-social-justice/index.php",
       "startDate": "2018",
       "summary": "Interviewed parents for a qualitative research study to understand the relationship between sleep habits and health among young children in St. Louis."
     },
@@ -123,55 +122,20 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Outstanding Bachelor of Science in Biostatistics Graduating Senior Award",
+      "date": "2018-05",
+      "awarder": "Saint Louis University College for Public Health and Social Justice",
+      "url": "https://www.slu.edu/public-health-social-justice/index.php",
+      "summary": "This award honors and individual that shows leadership performance & potential, scholastic achievement, and manifestations of the College Covenant in personal conduct.'"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Graduate Certificate in Applied Data Science",
+      "date": "2023-06",
+      "issuer": "University of California, Berkeley School of Information",
+      "url": "https://www.ischool.berkeley.edu/programs/data-science-certificate",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "skills": [
