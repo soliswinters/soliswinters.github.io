@@ -10,8 +10,7 @@
             {% if startDate == endDate %}
               {% assign date = startDate %}
             {% else %}
-              {% assign date = startDate | append: ' - ' %}
-            {% assign date = date | append: endDate %}
+              {% assign date = startDate | append: ' - ' | append: endDate %}
           {% else %}
             {% assign date = '' %}
           {% endif %}
