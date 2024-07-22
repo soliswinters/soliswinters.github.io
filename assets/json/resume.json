@@ -54,7 +54,8 @@
       "position": "Graduate Student Researcher",
       "url": "https://publichealth.berkeley.edu",
       "startDate": "2021",
-      "summary": "Lead data management, monitoring, and statistical analysis for a cluster randomized control trial to test whether cash incentives can improve treatment adherence among people living with HIV in Tanzania."
+      "summary": "Lead data management, monitoring, and statistical analysis for a cluster randomized control trial to test whether cash incentives can improve treatment adherence among people living with HIV in Tanzania.",
+      "order": "1"
     },
     {
       "name": "International Initiative for Impact Evaluation (3ie)",
@@ -62,7 +63,8 @@
       "url": "https://www.3ieimpact.org/",
       "startDate": "2022",
       "endDate": "2023",
-      "summary": "Led the analysis for the impact evaluation of a nutrition randomized trial in Baja Verapaz, Guatemala and assisted with development of the manuscript."
+      "summary": "Led the analysis for the impact evaluation of a nutrition randomized trial in Baja Verapaz, Guatemala and assisted with development of the manuscript.",
+      "order": "2"
     },
     {
       "name": "University of California, San Francisco School of Nursing",
@@ -70,7 +72,8 @@
       "url": "https://nursing.ucsf.edu/",
       "startDate": "2023",
       "endDate": "2023",
-      "summary": "Wrote, updated, and revised R Markdown code to generate monthly, tailored reports based on customer feedback data for drug shop owners enrolled in a randomized controlled trial in Tanzania."
+      "summary": "Wrote, updated, and revised R Markdown code to generate monthly, tailored reports based on customer feedback data for drug shop owners enrolled in a randomized controlled trial in Tanzania.",
+      "order": "3"
     },
     {
       "name": "International Initiative for Impact Evaluation (3ie)",
@@ -78,7 +81,8 @@
       "url": "https://www.3ieimpact.org/",
       "startDate": "2020",
       "endDate": "2020",
-      "summary": "Synthesized evidence around key questions for policymakers in the Philippines as they prepared to respond to challenges posed by COVID-19."
+      "summary": "Synthesized evidence around key questions for policymakers in the Philippines as they prepared to respond to challenges posed by COVID-19.",
+      "order": "4"
     },
     {
       "name": "Inter-American Development Bank, Office of Strategic Planning and Development Effectiveness",
@@ -86,7 +90,8 @@
       "url": "https://www.iadb.org/en",
       "startDate": "2018",
       "endDate": "2020",
-      "summary": "Provided technical support for impact evaluations and research in maternal and child health and nutrition. "
+      "summary": "Provided technical support for impact evaluations and research in maternal and child health and nutrition. ",
+      "order": "5"
     },
     {
       "name": "Saint Louis University College for Public Health and Social Justice",
@@ -94,7 +99,8 @@
       "url": "https://www.slu.edu/public-health-social-justice/index.php",
       "startDate": "2018",
       "endDate": "2018",
-      "summary": "Interviewed parents for a qualitative research study to understand the relationship between sleep habits and health among young children in St. Louis."
+      "summary": "Interviewed parents for a qualitative research study to understand the relationship between sleep habits and health among young children in St. Louis.",
+      "order": "6"
     },
     {
       "name": "American Institutes for Research",
@@ -102,7 +108,8 @@
       "url": "https://www.air.org/",
       "startDate": "2015",
       "endDate": "2015",
-      "summary": "Assisted in the evaluation of Plantwise Kenya, a project focused on improving plant health in Kenya by training extension agents and expanding farmer access to plant health information."
+      "summary": "Assisted in the evaluation of Plantwise Kenya, a project focused on improving plant health in Kenya by training extension agents and expanding farmer access to plant health information.",
+      "order": "7"
     }
   ],
   "awards": [
