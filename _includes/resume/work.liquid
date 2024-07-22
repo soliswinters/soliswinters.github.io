@@ -11,6 +11,7 @@
               {% assign date = startDate %}
             {% else %}
               {% assign date = startDate | append: ' - ' | append: endDate %}
+            {% endif %}
           {% else %}
             {% assign date = '' %}
           {% endif %}
