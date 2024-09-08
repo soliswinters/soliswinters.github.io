@@ -44,7 +44,7 @@
   ],
   "publications": [
     {
-      "name": "Please find a complete list of publications here.",
+      "summary": "Please find a complete list of publications here.",
       "url": "https://soliswinters.github.io/publications"
     }
   ],
@@ -53,9 +53,18 @@
       "name": "University of California, Berkeley School of Public Health",
       "position": "Graduate Student Researcher",
       "url": "https://publichealth.berkeley.edu",
-      "startDate": "2021",
-      "summary": "Lead data management, monitoring, and statistical analysis for a cluster randomized control trial to test whether cash incentives can improve treatment adherence among people living with HIV in Tanzania.",
+      "startDate": "2024",
+      "summary": "•	Support data management and monitoring for two randomized trials evaluating the effectiveness of cash incentives for supporting out-of-care people living with HIV and in-care people living with HIV who are predicted through machine learning to be at risk for disengaging from care in Tanzania.",
       "order": "1"
+    },
+    {
+      "name": "University of California, Berkeley School of Public Health",
+      "position": "Graduate Student Researcher",
+      "url": "https://publichealth.berkeley.edu",
+      "startDate": "2021",
+      "endDate": "2024",
+      "summary": "Led data management, monitoring, and statistical analysis for a cluster randomized control trial to test whether cash incentives can improve treatment adherence among people living with HIV in Tanzania.",
+      "order": "2"
     },
     {
       "name": "International Initiative for Impact Evaluation (3ie)",
@@ -64,7 +73,7 @@
       "startDate": "2022",
       "endDate": "2023",
       "summary": "Led the analysis for the impact evaluation of a nutrition randomized trial in Baja Verapaz, Guatemala and assisted with development of the manuscript.",
-      "order": "2"
+      "order": "3"
     },
     {
       "name": "University of California, San Francisco School of Nursing",
@@ -73,7 +82,7 @@
       "startDate": "2023",
       "endDate": "2023",
       "summary": "Wrote, updated, and revised R Markdown code to generate monthly, tailored reports based on customer feedback data for drug shop owners enrolled in a randomized controlled trial in Tanzania.",
-      "order": "3"
+      "order": "4"
     },
     {
       "name": "International Initiative for Impact Evaluation (3ie)",
@@ -82,7 +91,7 @@
       "startDate": "2020",
       "endDate": "2020",
       "summary": "Synthesized evidence around key questions for policymakers in the Philippines as they prepared to respond to challenges posed by COVID-19.",
-      "order": "4"
+      "order": "5"
     },
     {
       "name": "Inter-American Development Bank, Office of Strategic Planning and Development Effectiveness",
@@ -91,7 +100,7 @@
       "startDate": "2018",
       "endDate": "2020",
       "summary": "Provided technical support for impact evaluations and research in maternal and child health and nutrition. ",
-      "order": "5"
+      "order": "6"
     },
     {
       "name": "Saint Louis University College for Public Health and Social Justice",
@@ -100,7 +109,7 @@
       "startDate": "2018",
       "endDate": "2018",
       "summary": "Interviewed parents for a qualitative research study to understand the relationship between sleep habits and health among young children in St. Louis.",
-      "order": "6"
+      "order": "7"
     },
     {
       "name": "American Institutes for Research",
@@ -109,7 +118,7 @@
       "startDate": "2015",
       "endDate": "2015",
       "summary": "Assisted in the evaluation of Plantwise Kenya, a project focused on improving plant health in Kenya by training extension agents and expanding farmer access to plant health information.",
-      "order": "7"
+      "order": "8"
     }
   ],
   "awards": [
@@ -161,30 +170,6 @@
       "language": "Spanish",
       "fluency": "Heritage speaker",
       "icon": ""
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ]
 }
