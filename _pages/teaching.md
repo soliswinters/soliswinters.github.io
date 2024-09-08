@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 <h3 style="color: #4b9cd3;" id="UC Berkeley School of Public Health"><a href="https://publichealth.berkeley.edu/">UC Berkeley School of Public Health</a></h3>
