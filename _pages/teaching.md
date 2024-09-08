@@ -13,13 +13,8 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="PH250A" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Epidemiologic Methods I</a></h5>
+        <h5 id="PH250A" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Epidemiologic Methods I (PH250A)</a></h5>
         <h6 class="card-subtitle font-italic">Graduate Teaching Assistant, Fall 2024</h6>
-      </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          PH250A
-        </span>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
@@ -27,7 +22,7 @@ nav_order: 6
         <div class="row">
           <div class="col-sm-9">
             <p>Graduate-level course taught by Sandra McCoy.</p>
-            <p>"This course is designed to introduce principles and methods of epidemiology, including types and sources of descriptive epidemiologic data, analytic study designs (intervention trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference. The course will provide a basic understanding of epidemiology for those pursuing a career in public health."</p>
+            <p style="font-italic">"This course is designed to introduce principles and methods of epidemiology, including types and sources of descriptive epidemiologic data, analytic study designs (intervention trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference. The course will provide a basic understanding of epidemiology for those pursuing a career in public health."</p>
           </div>
         </div>
       </li>
@@ -40,13 +35,8 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="PH210F" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">"Practicum in MCH Data Analysis II</a></h5>
+        <h5 id="PH210F" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Practicum in MCH Data Analysis II (PH210F)</a></h5>
         <h6 class="card-subtitle font-italic">Graduate Teaching Assistant, Spring 2024</h6>
-      </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          PH210F
-        </span>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
@@ -67,13 +57,8 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="PH207A" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Public Health Aspects of Maternal and Child Nutrition</a></h5>
+        <h5 id="PH207A" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Public Health Aspects of Maternal and Child Nutrition (PH207A)</a></h5>
         <h6 class="card-subtitle font-italic">Graduate Student Instructor, Fall 2022</h6>
-      </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          PH207A
-        </span>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
@@ -94,13 +79,8 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="PH118" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Global Nutrition</a></h5>
+        <h5 id="PH118" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Global Nutrition (PH118)</a></h5>
         <h6 class="card-subtitle font-italic">Graduate Student Instructor, Summer 2021</h6>
-      </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          PH118
-        </span>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
