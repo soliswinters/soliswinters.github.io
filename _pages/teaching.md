@@ -13,7 +13,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="PH250A" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Epidemiologic Methods I</h5>
+        <h5 id="PH250A" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Epidemiologic Methods I</a></h5>
         <h6 class="card-subtitle font-italic">Graduate Teaching Assistant, Fall 2024</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
@@ -40,7 +40,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="PH210F" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">"Practicum in MCH Data Analysis II</h5>
+        <h5 id="PH210F" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">"Practicum in MCH Data Analysis II</a></h5>
         <h6 class="card-subtitle font-italic">Graduate Teaching Assistant, Spring 2024</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
@@ -67,7 +67,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="PH207A" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Public Health Aspects of Maternal and Child Nutrition</h5>
+        <h5 id="PH207A" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Public Health Aspects of Maternal and Child Nutrition</a></h5>
         <h6 class="card-subtitle font-italic">Graduate Student Instructor, Fall 2022</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
@@ -94,7 +94,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="PH118" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Global Nutrition</h5>
+        <h5 id="PH118" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Global Nutrition</a></h5>
         <h6 class="card-subtitle font-italic">Graduate Student Instructor, Summer 2021</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
@@ -115,3 +115,4 @@ nav_order: 6
     </ul>
   </div>
 </div>
+
