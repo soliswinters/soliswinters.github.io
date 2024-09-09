@@ -24,8 +24,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0">Graduate Teaching Assistant, Fall 2024</h6>
     <hr>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item" style="border: none;">Graduate-level course taught by <a href="https://publichealth.berkeley.edu/people/sandra-mccoy">Sandra McCoy</a>.</li>
-      <li class="list-group-item" style="border: none;">"This course is designed to introduce principles and methods of epidemiology, including types and sources of descriptive epidemiologic data, analytic study designs (intervention trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference. The course will provide a basic understanding of epidemiology for those pursuing a career in public health."</li>
+      <li class="list-group-item" style="border: none;">Graduate-level course "designed to introduce principles and methods of epidemiology, including types and sources of descriptive epidemiologic data, analytic study designs (intervention trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference. The course will provide a basic understanding of epidemiology for those pursuing a career in public health."</li>
     </ul>
   </div>
 </div>
