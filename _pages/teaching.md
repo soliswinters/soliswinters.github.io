@@ -16,7 +16,7 @@ nav_order: 3
         <h5 class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Epidemiologic Methods I</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold color: #4b9cd3 text-uppercase align-middle">
+        <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #4b9cd3;">
             PH250A
         </span>
       </div>
@@ -24,7 +24,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0">Graduate Teaching Assistant, Fall 2024</h6>
     <hr>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Graduate-level course taught by <a href="https://publichealth.berkeley.edu/people/sandra-mccoy">Sandra McCoy</a>.</li>
+      <li class="list-group-item" style="border: none;">Graduate-level course taught by <a href="https://publichealth.berkeley.edu/people/sandra-mccoy">Sandra McCoy</a>.</li>
       <li class="list-group-item" style="border: none;">"This course is designed to introduce principles and methods of epidemiology, including types and sources of descriptive epidemiologic data, analytic study designs (intervention trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference. The course will provide a basic understanding of epidemiology for those pursuing a career in public health."</li>
     </ul>
   </div>
