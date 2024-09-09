@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<h3 class="mt-4">UC Berkeley School of Public Health</h3>
+<h3 class="mt-4" style="font-size: 1.5rem;">UC Berkeley School of Public Health</h3>
 
 <div class="card mt-3">
   <div class="p-3">
