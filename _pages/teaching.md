@@ -22,10 +22,9 @@ nav_order: 3
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Graduate Teaching Assistant, Fall 2024</h6>
-    <hr>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item" style="border: none;">Graduate-level course taught by <a href="https://publichealth.berkeley.edu/people/sandra-mccoy">Sandra McCoy</a>.</li>
-      <li class="list-group-item" style="border: none;">"This course is designed to introduce principles and methods of epidemiology, including types and sources of descriptive epidemiologic data, analytic study designs (intervention trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference. The course will provide a basic understanding of epidemiology for those pursuing a career in public health."</li>
+      <li class="list-group-item font-italic" style="border: none;">"This course is designed to introduce principles and methods of epidemiology, including types and sources of descriptive epidemiologic data, analytic study designs (intervention trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference. The course will provide a basic understanding of epidemiology for those pursuing a career in public health."</li>
     </ul>
   </div>
 </div>
@@ -38,6 +37,11 @@ nav_order: 3
       <div class="col-sm-10">
         <h5 id="PH250A" class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Epidemiologic Methods I (PH250A)</a></h5>
         <h6 class="card-subtitle font-italic">Graduate Teaching Assistant, Fall 2024</h6>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold text-uppercase purple-color align-middle" style="background-color: #b509ac;">
+            PH250A
+        </span>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
@@ -109,7 +113,7 @@ nav_order: 3
         <div class="row">
           <div class="col-sm-9">
             <p>Undergraduate-level course taught by Sarah Zyba.</p>
-            <p>"We will focus on low- and middle-income countries because they experience the greatest burden of malnutrition, and because they face a unique context of limited financial and government resources. In this course, we will discuss the effects of nutrition throughout the lifecycle in pregnancy, infancy, childhood, and adulthood. We will focus on nutrition broadly including issues of undernutrition, micronutrient deficiencies, and obesity. We will also analyze and evaluate actions taken to ameliorate the major nutritional problems facing vulnerable populations in low- and middle-income countries."</p>
+            <p>"We will focuson low- and middle-income countries because they experience the greatest burden of malnutrition, and because they face a unique context of limited financial and government resources. In this course, we will discuss the effects of nutrition throughout the lifecycle in pregnancy, infancy, childhood, and adulthood. We will focus on nutrition broadly including issues of undernutrition, micronutrient deficiencies, and obesity. We will also analyze and evaluate actions taken to ameliorate the major nutritional problems facing vulnerable populations in low- and middle-income countries."</p>
           </div>
         </div>
       </li>
