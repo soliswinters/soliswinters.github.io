@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<h3 style="color: #4b9cd3;" id="UC Berkeley School of Public Health"><a href="https://publichealth.berkeley.edu/">UC Berkeley School of Public Health</a></h3>
+<h3 class="mt-4">UC Berkeley Public Health</h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -16,7 +16,7 @@ nav_order: 3
         <h5 class="card-title"><a href="https://guide.berkeley.edu/courses/pb_hlth/">Epidemiologic Methods I</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #4b9cd3;">
+        <span class="badge font-weight-bold text-uppercase purple-color align-middle">
             PH250A
         </span>
       </div>
@@ -43,10 +43,8 @@ nav_order: 3
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
             <p>Graduate-level course taught by Sandra McCoy.</p>
             <p style="font-italic">"This course is designed to introduce principles and methods of epidemiology, including types and sources of descriptive epidemiologic data, analytic study designs (intervention trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference. The course will provide a basic understanding of epidemiology for those pursuing a career in public health."</p>
-          </div>
         </div>
       </li>
     </ul>
