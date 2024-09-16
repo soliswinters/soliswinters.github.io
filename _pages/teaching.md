@@ -26,7 +26,7 @@ nav_order: 3
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">-Graduate-level course (153 students) taught by <a href="https://publichealth.berkeley.edu/people/sandra-mccoy">Sandra McCoy</a>.</li>
       <li class="list-group-item">-Course Catalog Description: "This course is designed to introduce principles and methods of epidemiology, including types and sources of descriptive epidemiologic data, analytic study designs (intervention trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference. The course will provide a basic understanding of epidemiology for those pursuing a career in public health."</li>
-      <li class="list-group-item">-Responsibilities include leading a weekly two-hour lab section of 40 students, covering topics such as measures of disease frequency and association, study designs (randomized controlled trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference; developing exam questions; grading assignments; holding office hours; and responding to questions posted on Ed Discussion.</li>
+      <li class="list-group-item">-Responsibilities: leading a weekly two-hour lab section of 40 students, covering topics such as measures of disease frequency and association, study designs (randomized controlled trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference; developing exam questions; grading assignments; holding office hours; and responding to questions posted on Ed Discussion.</li>
     </ul>
   </div>
 </div>
@@ -49,7 +49,8 @@ nav_order: 3
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">-Graduate-level course (15 students) taught by <a href="https://publichealth.berkeley.edu/people/kim-harley">Kim Harley</a>.</li>
       <li class="list-group-item">-Course Catalog Description: "The course is designed to support MCH students working on their Master's Capstone project. The course goal is to support students in a variety of methodological issues and practical issues. The course is a combination of formal class meetings and one-on-one meetings."</li>
-      <li class="list-group-item">-Responsibilities included teaching three lectures covering multivariable linear and logistic regression models and effect measure modification in R; providing one-on-one support with data cleaning and analysis for Master of Public Health (MPH) students completing their capstone projects; and holding office hours.</li>
+      <li class="list-group-item">-Responsibilities: teaching three lectures covering multivariable linear and logistic regression models and effect measure modification in R; providing one-on-one support with data cleaning and analysis for Master of Public Health (MPH) students completing their capstone projects; and holding office hours.</li>
+      <li class="list-group-item">-Course Evaluation: 7 out of 7 for instructor effectiveness.</li>
     </ul>
   </div>
 </div>
@@ -72,6 +73,7 @@ nav_order: 3
       <li class="list-group-item">-Graduate-level course (28 students) taught by <a href="https://publichealth.berkeley.edu/people/lia-fernald">Lia Fernald</a>.</li>
       <li class="list-group-item">-Course Catalog Description: "Nutrition plays a vital role in human reproduction and child growth and development. This course provides an overview of the major nutritional issues faced by women of childbearing age, infants, children, and adolescents in the United States and around the world, with selected topics explored in greater depth. Nutritional problems are multi-factorial and occur at multiple levels and we will study them from a variety of viewpoints (biological, pyschological, socio-cultural, economic, political, and behavioral) as well as from individual and population perspectives. Participants in the course will become acquainted with nutritional research, policies, and interventions designed to enhance reproduction, growth, and development. This course will also explore health disparities in maternal and child nutrition in both a domestic and international context."</li>
       <li class="list-group-item">-Responsibilities included teaching a lecture on birth outcomes and causes of growth restriction; connecting students with community organizations to complete their community engagement project; assisting with classroom activities; grading assignments; holding office hours; and responding to questions posted on Ed Discussion.</li>
+      <li class="list-group-item">-Course Evaluation: 6.5 out of 7 for instructor effectiveness.</li>
     </ul>
   </div>
 </div>
@@ -95,6 +97,7 @@ nav_order: 3
       <li class="list-group-item">-Undergraduate-level course (26 students) taught by <a href="https://publichealth.berkeley.edu/people/sarah-zyba">Sarah Zyba</a>.</li>
       <li class="list-group-item">-Course Catalog Description: "We will focus on low- and middle-income countries because they experience the greatest burden of malnutrition, and because they face a unique context of limited financial and government resources. In this course, we will discuss the effects of nutrition throughout the lifecycle in pregnancy, infancy, childhood, and adulthood. We will focus on nutrition broadly including issues of undernutrition, micronutrient deficiencies, and obesity. We will also analyze and evaluate actions taken to ameliorate the major nutritional problems facing vulnerable populations in low- and middle-income countries."</li>
       <li class="list-group-item">-Responsibilities included teaching a lecture on the double burden of malnutrition; assisting with classroom activities; grading assignments; holding office hours; and responding to questions posted on Piazza.</li>
+      <li class="list-group-item">-Course Evaluation: 6.27 out of 7 for instructor effectiveness.</li>
     </ul>
   </div>
 </div>
