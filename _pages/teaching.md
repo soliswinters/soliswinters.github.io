@@ -26,7 +26,7 @@ nav_order: 3
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">-Graduate-level course (153 students) taught by <a href="https://publichealth.berkeley.edu/people/sandra-mccoy">Sandra McCoy</a>.</li>
       <li class="list-group-item">-Course Catalog Description: "This course is designed to introduce principles and methods of epidemiology, including types and sources of descriptive epidemiologic data, analytic study designs (intervention trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference. The course will provide a basic understanding of epidemiology for those pursuing a career in public health."</li>
-      <li class="list-group-item">-Responsibilities: leading a weekly two-hour lab section of 40 students, covering topics such as measures of disease frequency and association, study designs (randomized controlled trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference; developing exam questions; grading assignments; holding office hours; and responding to questions posted on Ed Discussion.</li>
+      <li class="list-group-item">-Responsibilities include leading a weekly two-hour lab section of 40 students, covering topics such as measures of disease frequency and association, study designs (randomized controlled trials, cohort, case-control, cross-sectional and ecological), screening, confounding and other types of bias, and causal inference; developing exam questions; grading assignments; holding office hours; and responding to questions posted on Ed Discussion.</li>
     </ul>
   </div>
 </div>
@@ -49,7 +49,7 @@ nav_order: 3
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">-Graduate-level course (15 students) taught by <a href="https://publichealth.berkeley.edu/people/kim-harley">Kim Harley</a>.</li>
       <li class="list-group-item">-Course Catalog Description: "The course is designed to support MCH students working on their Master's Capstone project. The course goal is to support students in a variety of methodological issues and practical issues. The course is a combination of formal class meetings and one-on-one meetings."</li>
-      <li class="list-group-item">-Responsibilities: teaching three lectures covering multivariable linear and logistic regression models and effect measure modification in R; providing one-on-one support with data cleaning and analysis for Master of Public Health (MPH) students completing their capstone projects; and holding office hours.</li>
+      <li class="list-group-item">-Responsibilities included teaching three lectures covering multivariable linear and logistic regression models and effect measure modification in R; providing one-on-one support with data cleaning and analysis for Master of Public Health (MPH) students completing their capstone projects; and holding office hours.</li>
       <li class="list-group-item">-Course Evaluation: 7 out of 7 for instructor effectiveness.</li>
     </ul>
   </div>
