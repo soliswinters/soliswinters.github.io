@@ -116,16 +116,43 @@
       "order": "7"
     },
     {
+      "name": "Big Data Summer Institute, University of Michigan School of Public Health",
+      "position": "Undergraduate Trainee",
+      "url": "https://sph.umich.edu/bdsi/",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Participated in an interdisciplinary training and research program to introduce undergraduate students to big data and biostatistics (National Institutes of Health, BD2K R25 Courses and Skills grant R25EB022363).",
+      "order": "8"
+    },
+    {
       "name": "American Institutes for Research",
       "position": "Undergraduate Research Assistant",
       "url": "https://www.air.org/",
       "startDate": "2015",
       "endDate": "2015",
       "summary": "Assisted in the evaluation of Plantwise Kenya, a project focused on improving plant health in Kenya by training extension agents and expanding farmer access to plant health information.",
-      "order": "8"
+      "order": "9"
     }
   ],
   "awards": [
+    {
+      "title": "Interdisciplinary Training in Demography, NIH T32 Fellowship",
+      "date": "2022-2023",
+      "awarder": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://reporter.nih.gov/search/drg8VDsXQk2165nAX1Hz2g/project-details/10906881"
+    },
+    {
+      "title": "Computational Social Science Training Program, NIH T32 Fellowship",
+      "date": "2021-2022",
+      "awarder": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://reporter.nih.gov/search/DhePJc0pRkmMp-E5ImkxDg/project-details/9935665"
+    },
+    {
+      "title": "Biomedical Big Data Training Program, NIH T32 Fellowship ",
+      "date": "2020-2021",
+      "awarder": "National Library of Medicine",
+      "url": "https://reporter.nih.gov/search/15EDCE0C4F8FC0DE7598B8961CAA4A01A2FFCEB861BF/project-details/9732621"
+    },
     {
       "title": "Outstanding Bachelor of Science in Biostatistics Graduating Senior Award",
       "date": "2018",
