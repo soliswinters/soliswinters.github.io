@@ -9,6 +9,31 @@ nav_order: 3
 
 <h3 class="mt-4" style="font-size: 1.5rem;">UC Berkeley School of Public Health</h3>
 
+<!-- Practicum in MCH Data Analysis  (PH210F) -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://classes.berkeley.edu/content/2024-spring-pbhlth-210f-101-lec-101">Practicum in MCH Data Analysis II</a></h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold text-uppercase purple-color align-middle" style="background-color: #b509ac;">
+            PH 210F
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Graduate Teaching Assistant, Spring 2024, Spring 2025</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">-Graduate-level course (15 students) taught by <a href="https://publichealth.berkeley.edu/people/kim-harley">Kim Harley</a>.</li>
+      <li class="list-group-item">-Course Catalog Description: "The course is designed to support MCH students working on their Master's Capstone project. The course goal is to support students in a variety of methodological issues and practical issues. The course is a combination of formal class meetings and one-on-one meetings."</li>
+      <li class="list-group-item">-Responsibilities included teaching three lectures covering multivariable linear and logistic regression models and effect measure modification in R; providing one-on-one support with data cleaning and analysis for Master of Public Health (MPH) students completing their capstone projects; and holding office hours.</li>
+      <li class="list-group-item">-Spring 2024 Course Evaluation: 7 out of 7 for instructor effectiveness.</li>
+                                   Spring 2025 Course Evaluation: pending
+    </ul>
+  </div>
+</div>
+
+
 <!-- Epidemiologic Methods I (PH250A) -->
 <div class="card mt-3">
   <div class="p-3">
@@ -31,29 +56,6 @@ nav_order: 3
   </div>
 </div>
 
-
-<!-- Practicum in MCH Data Analysis  (PH210F) -->
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="card-title"><a href="https://classes.berkeley.edu/content/2024-spring-pbhlth-210f-101-lec-101">Practicum in MCH Data Analysis II</a></h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase purple-color align-middle" style="background-color: #b509ac;">
-            PH 210F
-        </span>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Graduate Teaching Assistant, Spring 2024</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">-Graduate-level course (15 students) taught by <a href="https://publichealth.berkeley.edu/people/kim-harley">Kim Harley</a>.</li>
-      <li class="list-group-item">-Course Catalog Description: "The course is designed to support MCH students working on their Master's Capstone project. The course goal is to support students in a variety of methodological issues and practical issues. The course is a combination of formal class meetings and one-on-one meetings."</li>
-      <li class="list-group-item">-Responsibilities included teaching three lectures covering multivariable linear and logistic regression models and effect measure modification in R; providing one-on-one support with data cleaning and analysis for Master of Public Health (MPH) students completing their capstone projects; and holding office hours.</li>
-      <li class="list-group-item">-Course Evaluation: 7 out of 7 for instructor effectiveness.</li>
-    </ul>
-  </div>
-</div>
 
 <!-- Public Health Aspects of Maternal and Child Nutrition  (PH207A) -->
 <div class="card mt-3">
