@@ -27,8 +27,7 @@ nav_order: 3
       <li class="list-group-item">-Graduate-level course (15 students) taught by <a href="https://publichealth.berkeley.edu/people/kim-harley">Kim Harley</a>.</li>
       <li class="list-group-item">-Course Catalog Description: "The course is designed to support MCH students working on their Master's Capstone project. The course goal is to support students in a variety of methodological issues and practical issues. The course is a combination of formal class meetings and one-on-one meetings."</li>
       <li class="list-group-item">-Responsibilities included teaching three lectures covering multivariable linear and logistic regression models and effect measure modification in R; providing one-on-one support with data cleaning and analysis for Master of Public Health (MPH) students completing their capstone projects; and holding office hours.</li>
-      <li class="list-group-item">-Spring 2024 Course Evaluation: 7 out of 7 for instructor effectiveness.</li>
-                                   Spring 2025 Course Evaluation: pending
+      <li class="list-group-item">-Course Evaluation: 7 out of 7 for instructor effectiveness (Spring 2024); pending (Spring 2025).</li> 
     </ul>
   </div>
 </div>
