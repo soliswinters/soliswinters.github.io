@@ -17,7 +17,7 @@ nav_order: 3
         <h5 class="card-title"><a href="https://classes.berkeley.edu/content/2024-spring-pbhlth-210f-101-lec-101">Practicum in MCH Data Analysis II</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase purple-color align-middle" style="background-color: #b509ac;">
+        <span class="badge font-weight-bold text-uppercase cyan-color align-middle" style="background-color: #b509ac;">
             PH 210F
         </span>
       </div>
@@ -41,7 +41,7 @@ nav_order: 3
         <h5 class="card-title"><a href="https://classes.berkeley.edu/content/2024-fall-pbhlth-250a-105-lab-105">Epidemiologic Methods I</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase purple-color align-middle" style="background-color: #b509ac;">
+        <span class="badge font-weight-bold text-uppercase cyan-color align-middle" style="background-color: #b509ac;">
             PH 250A
         </span>
       </div>
@@ -64,7 +64,7 @@ nav_order: 3
         <h5 class="card-title"><a href="https://classes.berkeley.edu/content/2022-Fall-PBHLTH-207A-001-LEC-001">Public Health Aspects of Maternal and Child Nutrition</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase purple-color align-middle" style="background-color: #b509ac;">
+        <span class="badge font-weight-bold text-uppercase cyan-color align-middle" style="background-color: #b509ac;">
             PH 207A
         </span>
       </div>
@@ -88,7 +88,7 @@ nav_order: 3
         <h5 class="card-title"><a href="https://classes.berkeley.edu/content/2021-summer-pbhlth-118-001-lec-001">Nutrition in Developing Countries</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase purple-color align-middle" style="background-color: #b509ac;">
+        <span class="badge font-weight-bold text-uppercase cyan-color align-middle" style="background-color: #b509ac;">
             PH 118
         </span>
       </div>
