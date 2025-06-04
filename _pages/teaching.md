@@ -17,7 +17,7 @@ nav_order: 3
         <h5 class="card-title"><a href="https://classes.berkeley.edu/content/2024-spring-pbhlth-210f-101-lec-101">Practicum in MCH Data Analysis II</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase blue-color align-middle" style="background-color: #b509ac;">
+        <span class="badge font-weight-bold text-uppercase blue-color align-middle" style="background-color: #0076df;">
             PH 210F
         </span>
       </div>
@@ -26,8 +26,8 @@ nav_order: 3
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">-Graduate-level course (15 students) taught by <a href="https://publichealth.berkeley.edu/people/kim-harley">Kim Harley</a>.</li>
       <li class="list-group-item">-Course Catalog Description: "The course is designed to support MCH students working on their Master's Capstone project. The course goal is to support students in a variety of methodological issues and practical issues. The course is a combination of formal class meetings and one-on-one meetings."</li>
-      <li class="list-group-item">-Responsibilities included teaching three lectures covering multivariable linear and logistic regression models and effect measure modification in R; providing one-on-one support with data cleaning and analysis for Master of Public Health (MPH) students completing their capstone projects; and holding office hours.</li>
-      <li class="list-group-item">-Course Evaluation: 7 out of 7 for instructor effectiveness (Spring 2024); pending (Spring 2025).</li> 
+      <li class="list-group-item">-Responsibilities included teaching three lectures covering multivariable linear and logistic regression models and effect measure modification in R; providing one-on-one support with data cleaning and analysis for Master of Public Health (MPH) students completing their capstone projects; and holding office hours.</li> 
+      <li class="list-group-item">-Course Evaluation: 7 out of 7 for instructor effectiveness (Spring 2024); 6.91 out of 7 for instructor effectiveness (Spring 2025).</li> 
     </ul>
   </div>
 </div>
@@ -41,7 +41,7 @@ nav_order: 3
         <h5 class="card-title"><a href="https://classes.berkeley.edu/content/2024-fall-pbhlth-250a-105-lab-105">Epidemiologic Methods I</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase blue-color align-middle" style="background-color: #b509ac;">
+        <span class="badge font-weight-bold text-uppercase blue-color align-middle" style="background-color: #0076df;">
             PH 250A
         </span>
       </div>
@@ -64,7 +64,7 @@ nav_order: 3
         <h5 class="card-title"><a href="https://classes.berkeley.edu/content/2022-Fall-PBHLTH-207A-001-LEC-001">Public Health Aspects of Maternal and Child Nutrition</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase blue-color align-middle" style="background-color: #b509ac;">
+        <span class="badge font-weight-bold text-uppercase blue-color align-middle" style="background-color: #0076df;">
             PH 207A
         </span>
       </div>
@@ -88,7 +88,7 @@ nav_order: 3
         <h5 class="card-title"><a href="https://classes.berkeley.edu/content/2021-summer-pbhlth-118-001-lec-001">Nutrition in Developing Countries</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase blue-color align-middle" style="background-color: #b509ac;">
+        <span class="badge font-weight-bold text-uppercase blue-color align-middle" style="background-color: #0076df;">
             PH 118
         </span>
       </div>
